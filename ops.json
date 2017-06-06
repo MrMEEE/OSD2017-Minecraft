@@ -1,8 +1,14 @@
-[                                                                                                                                                                                                                                
-  {                                                                                                                                                                                                                              
-    "uuid": "2a8b03c0-9f1a-4502-9e3e-443f065521a8",                                                                                                                                                                              
-    "name": "MrMEEE",                                                                                                                                                                                                            
-    "level": 4,                                                                                                                                                                                                                  
-    "bypassesPlayerLimit": false                                                                                                                                                                                                 
-  }                                                                                                                                                                                                                              
+[
+  {
+    "uuid": "2a8b03c0-9f1a-4502-9e3e-443f065521a8",
+    "name": "MrMEEE",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "dc32458c-8ae0-4b7b-abe2-add26204eb56",
+    "name": "beschio",                                                                                                                                                                                                            
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
 ]
